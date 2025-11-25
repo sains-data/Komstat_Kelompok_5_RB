@@ -23,7 +23,7 @@ Penelitian ini bertujuan untuk memecahkan masalah antrian panjang di Kantin BKL 
 | **Devi Rahayu** | 123450010 |
 | **Ridho Benedictus Togi Manik** | 123450060 |
 
-**Dosen Pengampu:** Fitri Nurjanah, S.Si., M.Mat.
+**Dosen Pembimbing:** Fitri Nurjanah, S.Si., M.Mat.
 
 ---
 
