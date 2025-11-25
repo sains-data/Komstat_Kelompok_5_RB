@@ -8,6 +8,10 @@ Repositori ini berisi dokumentasi lengkap, kode sumber, dan hasil analisis untuk
 
 Penelitian ini bertujuan untuk memecahkan masalah antrian panjang di Kantin BKL Institut Teknologi Sumatera (ITERA) menggunakan pendekatan **Komputasi Statistik** dan **Simulasi Algoritma Iteratif**.
 
+<div align="center">
+  <img src="Assets/grafik_bar.png" alt="Grafik Bar" width="600">
+</div>
+
 ---
 
 ## 👥 Anggota Kelompok 5 (Kelas RB)
